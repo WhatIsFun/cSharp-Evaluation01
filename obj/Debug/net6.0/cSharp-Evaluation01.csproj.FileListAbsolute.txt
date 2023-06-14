@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\cSharp-Evaluation01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\cSharp-Evaluation01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\cSharp-Evaluation01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\cSharp-Evaluation01.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\cSharp-Evaluation01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\bin\Debug\net6.0\cSharp-Evaluation01.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\bin\Debug\net6.0\cSharp-Evaluation01.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\bin\Debug\net6.0\cSharp-Evaluation01.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\bin\Debug\net6.0\cSharp-Evaluation01.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\bin\Debug\net6.0\cSharp-Evaluation01.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\cSharp-Evaluation01.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\refint\cSharp-Evaluation01.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\cSharp-Evaluation01.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\cSharp-Evaluation01.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-Evaluation01\cSharp-Evaluation01\obj\Debug\net6.0\ref\cSharp-Evaluation01.dll
